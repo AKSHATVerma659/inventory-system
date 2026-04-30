@@ -1,0 +1,21 @@
+sku,warehouse,quantity,min_quantity,error
+PRD1001,South Depot,102,28,Missing sku or name
+PRD1002,North Depot,387,38,Missing sku or name
+PRD1003,Main Warehouse,346,5,Missing sku or name
+PRD1004,South Depot,355,27,Missing sku or name
+PRD1004,Main Warehouse,159,13,Missing sku or name
+PRD1004,North Depot,52,29,Missing sku or name
+PRD1005,South Depot,33,7,Missing sku or name
+PRD1005,North Depot,152,23,Missing sku or name
+PRD1005,Main Warehouse,233,38,Missing sku or name
+PRD1006,South Depot,454,48,Missing sku or name
+PRD1006,North Depot,68,26,Missing sku or name
+PRD1006,Main Warehouse,461,36,Missing sku or name
+PRD1007,Main Warehouse,485,30,Missing sku or name
+PRD1007,South Depot,9,19,Missing sku or name
+PRD1008,South Depot,67,18,Missing sku or name
+PRD1009,Main Warehouse,187,50,Missing sku or name
+PRD1009,South Depot,333,7,Missing sku or name
+PRD1009,North Depot,192,45,Missing sku or name
+PRD1010,South Depot,304,8,Missing sku or name
+PRD1010,Main Warehouse,338,11,Missing sku or name
