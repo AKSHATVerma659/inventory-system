@@ -1,0 +1,21 @@
+sku,name,description,category_id,brand_id,unit_id,cost_price,selling_price,barcode,is_active
+PRD1001,Lite Mouse 1,"Lite Mouse 1 - reliable, tested. Model 1. Suitable for businesses.",1,6,2,1262.21,1620.33,1819600133890,True
+PRD1002,Lite Lamp 2,"Lite Lamp 2 - reliable, tested. Model 2. Suitable for businesses.",4,2,2,2966.87,5001.13,0265423511615,True
+PRD1003,Max Desk 3,"Max Desk 3 - reliable, tested. Model 3. Suitable for businesses.",7,1,3,2324.15,2963.05,6184959310341,True
+PRD1004,Prime Mouse 4,"Prime Mouse 4 - reliable, tested. Model 4. Suitable for businesses.",4,3,2,3196.64,4535.71,5534192832764,True
+PRD1005,Lite Router 5,"Lite Router 5 - reliable, tested. Model 5. Suitable for businesses.",7,7,1,1183.79,1443.35,5641395376724,True
+PRD1006,Pro Lamp 6,"Pro Lamp 6 - reliable, tested. Model 6. Suitable for businesses.",5,3,3,2943.7,5118.19,6532871012269,True
+PRD1007,Eco SSD 7,"Eco SSD 7 - reliable, tested. Model 7. Suitable for businesses.",5,4,3,1294.5,1983.09,0184514627048,True
+PRD1008,Max Mouse 8,"Max Mouse 8 - reliable, tested. Model 8. Suitable for businesses.",7,6,2,4216.26,6343.78,3252880957015,True
+PRD1009,Pro Keyboard 9,"Pro Keyboard 9 - reliable, tested. Model 9. Suitable for businesses.",2,5,1,473.98,706.99,1822782489638,True
+PRD1010,Lite Desk 10,"Lite Desk 10 - reliable, tested. Model 10. Suitable for businesses.",4,6,3,1898.43,3302.83,7133150983930,True
+PRD1011,Lite Keyboard 11,"Lite Keyboard 11 - reliable, tested. Model 11. Suitable for businesses.",2,1,1,4305.2,5349.27,3473829973763,True
+PRD1012,Ultra SSD 12,"Ultra SSD 12 - reliable, tested. Model 12. Suitable for businesses.",3,4,2,2361.77,3867.27,1065133387262,True
+PRD1013,Eco Chair 13,"Eco Chair 13 - reliable, tested. Model 13. Suitable for businesses.",7,1,2,4049.71,6939.5,1080132677360,True
+PRD1014,Eco Keyboard 14,"Eco Keyboard 14 - reliable, tested. Model 14. Suitable for businesses.",4,3,2,1461.98,2365.42,8723430980500,False
+PRD1015,Max Lamp 15,"Max Lamp 15 - reliable, tested. Model 15. Suitable for businesses.",2,1,3,446.55,585.65,9136193990916,True
+PRD1016,Basic Chair 16,"Basic Chair 16 - reliable, tested. Model 16. Suitable for businesses.",6,6,2,1231.5,1770.25,4751079911838,True
+PRD1017,Pro Router 17,"Pro Router 17 - reliable, tested. Model 17. Suitable for businesses.",1,2,2,1460.69,2136.86,8498084124118,True
+PRD1018,Basic Desk 18,"Basic Desk 18 - reliable, tested. Model 18. Suitable for businesses.",5,2,3,1747.26,2817.45,4874016400524,True
+PRD1019,Lite Cable 19,"Lite Cable 19 - reliable, tested. Model 19. Suitable for businesses.",5,6,2,2826.49,3581.51,2805982620450,True
+PRD1020,Pro Chair 20,"Pro Chair 20 - reliable, tested. Model 20. Suitable for businesses.",6,1,2,3911.58,6768.91,6923226025634,True
